@@ -1,1 +1,2 @@
-# hash_code_2020_pizza_problem_solution
+# Google Hash Code 2020 
+## Pizza Problem Solution
