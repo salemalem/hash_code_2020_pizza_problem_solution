@@ -18,6 +18,8 @@ Let's create our combination!
 
 Basically, it's what we do. Summing if more than enough skiping it!
 
-``` html
+
 ## Problems | Disadvantages of this algroithm
-```
+Assume that we have to find for 15 not 16.
+1. 8
+2. 8 + 6 = 14 Will stop here since adding following numbers will not give us our desired result.
